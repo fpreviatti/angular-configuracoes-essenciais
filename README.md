@@ -46,3 +46,6 @@ import * as M from 'materialize-css';
 
 ## Instalar cash-dom via npm
 npm install --save cash-dom
+
+## Instalar source-map
+npm install --save --dev @types/source-map@0.5.2
