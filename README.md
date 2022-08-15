@@ -49,3 +49,7 @@ npm install --save cash-dom
 
 ## Instalar source-map
 npm install --save --dev @types/source-map@0.5.2
+
+## Identificar e matar porta 4200 (ou outra porta configurada para rodar o servidor)
+netstat -ano | findstr 4200
+taskkill /PID <PID> /F
