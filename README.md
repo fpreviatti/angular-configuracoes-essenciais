@@ -43,3 +43,6 @@ npm install material-icons
 
 ## Referenciar o materialize-css no arquivo app.component.ts (importar como M pois em versões futuras, o M representa funções do jquery)
 import * as M from 'materialize-css';
+
+## Instalar cash-dom via npm
+npm install --save cash-dom
