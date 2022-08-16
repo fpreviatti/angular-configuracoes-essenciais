@@ -54,5 +54,11 @@ npm install --save --dev @types/source-map@0.5.2
 netstat -ano | findstr 4200
 taskkill /PID <PID> /F
 
-## Instalar ngx-mask
+## Instalar ngx-mask (mascaras p datas/etc)
 npm install --save ngx-mask
+
+## Instalar Material icons
+npm install material-icons@latest
+
+## Importar Material icons no arquivo styles.css
+@import "~material-icons/iconfont/material-icons.css";
