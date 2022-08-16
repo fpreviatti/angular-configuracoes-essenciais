@@ -62,3 +62,5 @@ npm install material-icons@latest
 
 ## Importar Material icons no arquivo styles.css
 @import "~material-icons/iconfont/material-icons.css";
+
+Ver demo em: https://marella.me/material-icons/demo/
