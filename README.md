@@ -3,6 +3,15 @@
 ## Instalar módulos npm(node-modules)
 npm install
 
+## Criar projeto
+ng new nome-app 
+
+## Criar projeto com módulo de roteamento
+ng new nome-app --routing
+
+## Adicionar módulo de roteamento (best practices: separate, top-level module)
+ng generate module app-routing --flat --module=app
+
 ## Buildar projeto (ex: projeto clonado do github)
 ng build
 
