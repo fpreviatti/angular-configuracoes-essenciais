@@ -73,3 +73,6 @@ npm install material-icons@latest
 @import "~material-icons/iconfont/material-icons.css";
 
 Ver demo em: https://marella.me/material-icons/demo/
+
+## Abrir o projeto e torná-lo visível na rede lan
+ng serve --host=0.0.0.0
