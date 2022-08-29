@@ -81,7 +81,9 @@ ng serve --host=0.0.0.0
 ng generate service usefull --skip-tests
 
 ## Instalar json-server
-npm install -g json-server
+  
+npm install json-server   (localmente)
+npm install -g json-server     (globalmente)
   
 ## Start JSON Server
 json-server --watch db.json
