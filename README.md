@@ -86,4 +86,4 @@ npm install json-server   (localmente)
 npm install -g json-server     (globalmente)
   
 ## Start JSON Server
-json-server --watch db.json
+npm run json:server:routes
