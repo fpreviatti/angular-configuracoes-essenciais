@@ -77,5 +77,5 @@ Ver demo em: https://marella.me/material-icons/demo/
 ## Abrir o projeto e torná-lo visível na rede lan
 ng serve --host=0.0.0.0
 
-## Gerar um novo service
+## Gerar um novo service (skip-tests para não gerar os arquivos spec)
 ng generate service usefull --skip-tests
