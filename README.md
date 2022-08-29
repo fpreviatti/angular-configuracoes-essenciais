@@ -79,3 +79,6 @@ ng serve --host=0.0.0.0
 
 ## Gerar um novo service (skip-tests para não gerar os arquivos spec)
 ng generate service usefull --skip-tests
+
+## Instalar json-server
+npm install -g json-server
