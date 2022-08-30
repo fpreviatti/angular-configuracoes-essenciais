@@ -87,3 +87,6 @@ npm install -g json-server     (globalmente)
   
 ## Start JSON Server
 npm run json:server:routes
+
+## Guia Http Angular
+https://angular.io/guide/http
