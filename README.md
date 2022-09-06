@@ -90,3 +90,6 @@ npm run json:server:routes
 
 ## Guia Http Angular
 https://angular.io/guide/http
+
+## Gerar pipes customizados
+ng generate pipe exponential-strength
