@@ -93,3 +93,7 @@ https://angular.io/guide/http
 
 ## Gerar pipes customizados
 ng generate pipe exponential-strength
+
+ou gerando a pasta pipes:
+ng generate pipe exponential-strength  
+ng generate pipe pipes/exponential-strength
