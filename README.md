@@ -100,3 +100,6 @@ ng generate pipe exponential-strength
 ou gerando a pasta pipes:
 ng generate pipe exponential-strength  
 ng generate pipe pipes/exponential-strength
+
+## Instalar angular-cli-chpages (github pages)
+npm add angular-cli-chpages
