@@ -102,4 +102,4 @@ ng generate pipe exponential-strength
 ng generate pipe pipes/exponential-strength
 
 ## Instalar angular-cli-chpages (github pages)
-npm add angular-cli-chpages
+npm add angular-cli-ghpages
