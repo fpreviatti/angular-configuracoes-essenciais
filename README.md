@@ -16,6 +16,7 @@ ng generate module app-routing --flat --module=app
 ng build
 
 ## Buildar projeto para deploy
+ng build --prod --base-href="/nome-repositorio/"
 
 ## Abrir projeto
 ng serve
