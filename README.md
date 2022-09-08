@@ -103,3 +103,6 @@ ng generate pipe pipes/exponential-strength
 
 ## Instalar angular-cli-chpages (github pages)
 npm add angular-cli-ghpages
+  
+## Deploy github pages
+angular-cli-ghpages --dir-dist/nome-repositorio
