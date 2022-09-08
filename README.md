@@ -15,6 +15,8 @@ ng generate module app-routing --flat --module=app
 ## Buildar projeto (ex: projeto clonado do github)
 ng build
 
+## Buildar projeto para deploy
+
 ## Abrir projeto
 ng serve
 
