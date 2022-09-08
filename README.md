@@ -106,3 +106,8 @@ npm add angular-cli-ghpages
   
 ## Deploy github pages
 angular-cli-ghpages --dir-dist/nome-repositorio
+
+## Alterar o arquivo package.json para realizar o deploy (npm run deploy).
+"build": "ng build --prod --base-href=/jogos-zerados/",
+"ghpages": "angular-cli-ghpages --dir=dist/jogos-zerados",
+"deploy": "npm run build & npm run ghpages"
