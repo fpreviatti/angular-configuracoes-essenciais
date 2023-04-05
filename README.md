@@ -111,3 +111,13 @@ angular-cli-ghpages --dir-dist/nome-repositorio
 "build": "ng build --prod --base-href=/jogos-zerados/",
 "ghpages": "angular-cli-ghpages --dir=dist/jogos-zerados",
 "deploy": "npm run build & npm run ghpages"
+
+## Angular JS X Angular 2+ (Artigo: https://www.zup.com.br/blog/angular-versoes-e-releases)
+
+- O Angular 2+ utiliza Typescript, enquanto que o AngularJS, usa JavaScript.
+- O Angular agora é feito de componentes. Assim, não tem mais necessidade de criar um controller e trabalhar com $scope.
+- AngularJS não foi construído considerando o suporte mobile, enquanto o Angular 2+ é totalmente orientado ao mobile.
+- A sintaxe é totalmente diferente, agora o ng-for, por exemplo, é *ngFor, o padrão da sintaxe é camelcase.
+- Angular 2+ possui um CLI, para criação fácil de novos projetos, componentes e serviços.
+- A definição de um serviço antes no AngularJS poderia ser feita de várias maneiras, por exemplo: uma factory, serviço, provider, constant, values. Por isso, assim - como o Angular 2+ é baseado em classes, essa é a única maneira de definir um serviço.
+- A performance e o tamanho do bundle final mudou na aplicação.
